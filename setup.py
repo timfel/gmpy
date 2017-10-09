@@ -286,7 +286,7 @@ gmpy2_ext = Extension('gmpy2',
                       define_macros = defines)
 
 setup(name = "gmpy2",
-      version = "2.1.0a0",
+      version = "2.2.0a0",
       author = "Case Van Horsen",
       author_email = "casevh@gmail.com",
       license = "LGPL-3.0+",

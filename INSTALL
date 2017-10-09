@@ -73,7 +73,7 @@ are installed into $HOME/static
 
 5. Compile gmpy2 and specify the location of GMP, MPFR and MPC.
 
-    $ cd $HOME/src/gmpy2-2.1.0
+    $ cd $HOME/src/gmpy2-2.2.0
     $ python setup.py build_ext --static=$HOME/static install
 
 If you get a "permission denied" error message, you may need to use:
